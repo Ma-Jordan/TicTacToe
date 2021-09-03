@@ -1,4 +1,4 @@
-//Jordan Ma gt7995	
+//Jordan Ma 	
 #include<iostream>
 #include<iomanip>
 #include<string>
